@@ -130,6 +130,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-.idea/*
+.idea
 include/leetcode/__pycache__/
 include/leetcode/commons/__pycache__/
